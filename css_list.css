@@ -1,0 +1,12 @@
+ol {
+	list-style-type: upper-roman;	
+}
+
+ul {
+	list-style-type: square;
+}
+
+li {
+	text-shadow: 1px 4px #dbdbdb;
+}
+
